@@ -1,1 +1,5 @@
-{ "git": { "uri": "https://github.com/jk-solstice/app-config.git" } }
+{
+  "git": {
+    "uri": "https://github.com/jk-solstice/app-config.git"
+  }
+}
